@@ -1,24 +1,35 @@
-# **Cześć  Jestem Mateusz :)**
- ### Jestem początkującym testerem oprogramowania . 
- ### Po trzech miesiącach intensywnej nauki ukończyłem kurs "Tester Oprogramowania" w szkole Software Development Academy. 
- ### Jestem pracowitą osobą która się nie poddaje i dążę do osiągniecia celu. Jestem zmotywowany do podjęcia pracy i zdobywania nowego doświadczenia. 
- ### Cenie sobie porządek oraz organizacje swojej pracy. Bardzo dobrze odnajduje się w nowym zespole oraz z łatwością nawiązuje kontakt z ludźmi z danej grupy.
- 
- 
- 
- # Certyfikaty:
- ### [Certyfikat - Tester Oprogramowania](https://app.diplomasafe.com/pl-PL/diploma/d8e1ab93e9473ea748fce9fc59326572602764f68/tester-oprogramowania)
+<h1 align="center">Hi 👋, I'm Mateusz</h1>
+<h3 align="center">Junior Software Tester form Wrocław</h3>
 
- 
- 
- # Umiejetności:
-<img src="https://imgupload.pl/images/2023/01/09/screenpresso-logosdd.png" alt="screenpresso-logosdd.png" borde="0" /><img src="https://img.icons8.com/color/48/null/jira.png"/>  <a href="https://imgbb.com/"><img src="https://i.ibb.co/bNFJGXX/asdaa.png" alt="asdaa" borde="0"></a><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> 
+🔭 I’m currently search work as a SOFTWARE TESTER
+
+👯 I am looking to work with a team of experienced people with a helping hand and a sense of humour.
+
+📫 You can reach me at mbilewicz13@gmail.com
+
+📝 I'm currently learning 
+
+⚡ I love cooking , travel and music :)
 
 
 
-# Kontakt:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mbilewicz13) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mateuszbilewicz/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](http://mbilewicz13@gmail.com)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mbilewicz13&show_icons=true)  
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mbilewicz13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbilewicz13" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
