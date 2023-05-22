@@ -7,7 +7,7 @@
 
 📫 You can reach me at mbilewicz13@gmail.com
 
-📝 I'm currently learning REST API in Postman , MySQL(SQL).
+📝 I'm currently learning REST API in Postman .
 
 ⚡ I love cooking , travel and music :)
 
