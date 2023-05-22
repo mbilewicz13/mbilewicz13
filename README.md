@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">Junior Software Tester form Wrocław</h3>
+<h3 align="center"> I'm beginner Software Tester from Wrocław</h3>
 
-🔭 I’m currently search work as a SOFTWARE TESTER
+🔭 I’m search new work as a SOFTWARE TESTER.
 
-👯 I am looking to work with a team of experienced people with a helping hand and a sense of humour.
+👯 I am looking to work with a team of experienced people with a helping hand to gain experience.
 
 📫 You can reach me at mbilewicz13@gmail.com
 
-📝 I'm currently learning 
+📝 I'm currently learning REST API in Postman , MySQL(SQL).
 
 ⚡ I love cooking , travel and music :)
 
